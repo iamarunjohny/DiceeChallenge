@@ -3,8 +3,8 @@ window.onload= function refreshDise1(){
    let diceNo1 = Math.floor(Math.random() * 7);
    let diceNo2 = Math.floor(Math.random() * 7);
 
-   console.log(diceNo1)
-   console.log(diceNo2)
+   // console.log(diceNo1)
+   // console.log(diceNo2)
 
    let imageURL;
    let imageURL2;
